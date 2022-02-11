@@ -1,4 +1,7 @@
 hello
 hello
 naresh
-vinod
+<<<<<<< HEAD
+=======
+sateesh
+>>>>>>> feature
